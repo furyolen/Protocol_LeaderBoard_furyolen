@@ -15,6 +15,13 @@
    ================================================================ */
 
 const upcomingEvents = [
+   {
+    title: "IGNITE - PITCHING COMPETITION 2026",
+    image: "./data/events/ignite.jpeg",
+    date: "Wednesday, 19th Aug 2026 | 2:30PM onwards",
+    description: "Have a startup idea? 💡 Turn your IDEA into IMPACT at IGNITE – Pitching Competition!  🏆 Prize Pool: ₹10,000 🎟️ No Registration Fee 🚀 Direct Entry to the Zonal Round of Eureka! – IIT Bombay 🤝 Mentorship & Funding Opportunities 📍 Venue: TBD  🔥 Ideas Ignite. Pitches Inspire. Legacies Begin.  Whether you're building a startup or have an idea waiting to be explored, this is your chance to PITCH, COMPETE & TAKE YOUR VENTURE TO THE NEXT LEVEL!  📢 Open to aspiring entrepreneurs, innovators, and startup enthusiasts!  Share this with your college groups, startup communities & friends! 🚀",
+    register: "https://ignite-pitching.lovable.app"
+  },
   {
     title: "COMMIT-ED",
     image: "./data/events/commit-ed.jpeg",
