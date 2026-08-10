@@ -16,6 +16,20 @@
 
 const upcomingEvents = [
   {
+    title: "COMMIT-ED",
+    image: "./data/events/commit-ed.jpeg",
+    date: "Monday, 10th Aug 2026 to Sunday, 23rd Aug 2026",
+    description: "Greetings from Protocol Club & BMSCE IEEE Student Branch! 🤝  💻 Introducing COMMIT-ED — A 2-Week Open Source Contribution Program  Take this opportunity to explore open-source development, gain practical experience, and contribute to meaningful student-led projects.  🚀 What can you do at COMMIT-ED?  * Contribute to student-led open-source projects * Turn your own projects into open source * Learn Git, GitHub, Issues, and Pull Requests * Gain practical experience in collaborative software development * Build a stronger GitHub profile and résumé * Get a head start towards opportunities such as GSoC  🌱 New to Open Source? No prior experience is required. Beginners are welcome!  🏆 Registration  👨‍💻 Contributors * Non-IEEE Members: ₹100 * IEEE Members: ₹70  🛠️ Project Administrators * Non-IEEE Members: ₹50 * IEEE Members: ₹35  🏅 Certificates, recognition, awards, prizes, and valuable open-source experience await you!  🤝 In collaboration with IEEE Student Branch, BMSCE  Join us, contribute, learn, and build with the open-source community.  💍 GET COMMIT-ED.",
+    register: "https://forms.gle/ULnz8rnjFHCCtS7q9"
+  }
+];
+
+/* ================================================================
+   ALL EVENTS (Newest First — ALL are past)
+   ================================================================ */
+
+const pastEvents = [
+   {
     title: "Design Odyssey",
     image: "./data/events/designOdyssey.jpeg",
     date: "Wednesday, 29th July, 2026 | 5:00 PM – 8:30 PM",
@@ -35,14 +49,7 @@ const upcomingEvents = [
     date: "Friday, 31st July, 2026 | 10:00 AM – 6:00 PM",
     description: "BMSCE IEEE Computer Society, in collaboration with Protocol, presents Synaptrix, an 8-hour Online Hackathon, designed to foster innovation and encourage the development of technology-driven solutions to real-world challenges. Step into an intensive environment focused on innovation, problem-solving, and purposeful AI integration. Explore technologies such as LLM APIs, Computer Vision, Machine Learning models, and transform innovative ideas into functional prototypes with an emphasis on real-world impact, technical excellence, and effective implementation.",
     register: "https://forms.gle/Nwm4kcqrsWSxrMxa9"
-  } 
-];
-
-/* ================================================================
-   ALL EVENTS (Newest First — ALL are past)
-   ================================================================ */
-
-const pastEvents = [
+  }, 
    {
     title: "Gateway to GATE",
     image: "./data/events/gatewayToGATE.jpeg",
