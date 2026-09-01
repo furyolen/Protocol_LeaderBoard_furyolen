@@ -15,6 +15,14 @@
    ================================================================ */
 
 const upcomingEvents = [
+   
+];
+
+/* ================================================================
+   ALL EVENTS (Newest First — ALL are past)
+   ================================================================ */
+
+const pastEvents = [
    {
     title: "IGNITE - PITCHING COMPETITION 2026",
     image: "./data/events/ignite.jpeg",
@@ -28,14 +36,7 @@ const upcomingEvents = [
     date: "Monday, 10th Aug 2026 to Sunday, 23rd Aug 2026",
     description: "Greetings from Protocol Club & BMSCE IEEE Student Branch! 🤝  💻 Introducing COMMIT-ED — A 2-Week Open Source Contribution Program  Take this opportunity to explore open-source development, gain practical experience, and contribute to meaningful student-led projects.  🚀 What can you do at COMMIT-ED?  * Contribute to student-led open-source projects * Turn your own projects into open source * Learn Git, GitHub, Issues, and Pull Requests * Gain practical experience in collaborative software development * Build a stronger GitHub profile and résumé * Get a head start towards opportunities such as GSoC  🌱 New to Open Source? No prior experience is required. Beginners are welcome!  🏆 Registration  👨‍💻 Contributors * Non-IEEE Members: ₹100 * IEEE Members: ₹70  🛠️ Project Administrators * Non-IEEE Members: ₹50 * IEEE Members: ₹35  🏅 Certificates, recognition, awards, prizes, and valuable open-source experience await you!  🤝 In collaboration with IEEE Student Branch, BMSCE  Join us, contribute, learn, and build with the open-source community.  💍 GET COMMIT-ED.",
     register: "https://forms.gle/ULnz8rnjFHCCtS7q9"
-  }
-];
-
-/* ================================================================
-   ALL EVENTS (Newest First — ALL are past)
-   ================================================================ */
-
-const pastEvents = [
+  },
    {
     title: "Design Odyssey",
     image: "./data/events/designOdyssey.jpeg",
